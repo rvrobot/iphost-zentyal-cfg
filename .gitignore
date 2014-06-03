@@ -4,4 +4,5 @@
 /etc/*
 !/etc/services
 !/etc/hosts
+!/etc/protocols
 !/etc/zentyal*
