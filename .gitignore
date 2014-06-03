@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/etc
+/etc/*
+!/etc/services
+!/etc/hosts
+!/etc/zentyal*
